@@ -88,27 +88,23 @@ More modules will be added over time.
 
 ### Amazon Coupon Code Applier
 
-This is an example of how to list things you need to use the software and how to install them.
+The Amazon Coupon Code Applier is designed to repeatedly purchase free items on Amazon using promotion codes and coupons. The items may not ship, so you can receive Amazon credits instead if the products do not ship. 
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+<strong>Important: Please manually purchase the item first once so that you can delete incompatible addresses. The bot will only checkout if the cost is $0.00, so if something goes wrong, your cards will not be charged, but you may lose existing Amazon credits. However, you may be able to recover them from contacting Amazon support. The bot does not store or send ANY of your emails or passwords. Spiria is not responsible for any loss you may experience in running the bot. </strong>
+
+1. Enter the Amazon product link you want to bot.
+2. Enter your Amazon email. 
+3. Enter your Amazon password. It will not be saved and does not get sent elsewhere.
+4. Enter the Amazon promo code. Put a random one if there is none needed.
+5. Enter the quantity of the product that you want to purchase.
+6. **Please keep your mouse away from any hover menus. I would minimize the window or leave my computer to do something else because the process might take a while depending on the quantity of the products. Check the email associated with that Amazon account to ensure that it worked.**
+
 
 
 <!-- CONTACT -->
 ## Contact
 
-Spiria Tools - <a href="https://twitter.com/spiria_tools">@spiria_tools</a> - spiriatools@gmail.com
+Spiria Tools - <a href="https://twitter.com/spiria_tools">@spiria_tools</a> - Message elijah#5314 on Discord if you have any questions.
 
 Developed by elijah#5314
 
