@@ -88,7 +88,7 @@ More modules will be added over time.
 
 ### Amazon Coupon Code Applier
 
-The Amazon Coupon Code Applier is designed to repeatedly purchase free items on Amazon using promotion codes and coupons. The items may not ship, so you can receive Amazon credits instead if the products do not ship. 
+The Amazon Coupon Code Applier is designed to repeatedly purchase free items on Amazon using promotion codes and clipping coupons. The items may not ship, so you can receive Amazon credits instead if the products do not ship. 
 
 <strong>Important: Please manually purchase the item first once so that you can delete incompatible addresses. The bot will only checkout if the cost is $0.00, so if something goes wrong, your cards will not be charged, but you may lose existing Amazon credits. However, you may be able to recover them from contacting Amazon support. The bot does not store or send ANY of your emails or passwords. Spiria is not responsible for any loss you may experience in running the bot. </strong>
 
