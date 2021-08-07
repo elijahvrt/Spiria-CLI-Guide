@@ -35,7 +35,7 @@
     <li>
       <a href="#modules">Modules</a>
       <ul>
-        <li><a href="#amazon">Amazon Coupon Code Applier</a></li>
+        <li><a href="#amazon-coupon-code-applier">Amazon Coupon Code Applier</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
