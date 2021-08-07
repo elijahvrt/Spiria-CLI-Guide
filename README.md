@@ -86,6 +86,7 @@ You will not be able to use the same key on a different device after activating 
 
 More modules will be added over time.
 
+
 ### Amazon Coupon Code Applier
 
 The Amazon Coupon Code Applier is designed to repeatedly purchase free items on Amazon using promotion codes and clipping coupons. The items may not ship, so you can receive Amazon credits instead if the products do not ship. 
@@ -93,11 +94,36 @@ The Amazon Coupon Code Applier is designed to repeatedly purchase free items on 
 <strong>Important: Please manually purchase the item first once so that you can delete incompatible addresses. The bot will only checkout if the cost is $0.00, so if something goes wrong, your cards will not be charged, but you may lose existing Amazon credits. However, you may be able to recover them from contacting Amazon support. The bot does not store or send ANY of your emails or passwords. Spiria is not responsible for any loss you may experience in running the bot. </strong>
 
 1. Enter the Amazon product link you want to bot.
-2. Enter your Amazon email. 
+2. Enter your Amazon email. It will not be saved and does not get sent elsewhere.
 3. Enter your Amazon password. It will not be saved and does not get sent elsewhere.
 4. Enter the Amazon promo code. Put a random one if there is none needed.
 5. Enter the quantity of the product that you want to purchase.
 6. **Please keep your mouse away from any hover menus. I would minimize the window or leave my computer to do something else because the process might take a while depending on the quantity of the products. Check the email associated with that Amazon account to ensure that it worked.**
+
+
+### Amazon Coupon Code Applier
+
+<strong>Important: Please manually purchase the item first once so that you can delete incompatible addresses. The bot will only checkout if the cost is $0.00, so if something goes wrong, your cards will not be charged, but you may lose existing Amazon credits. However, you may be able to recover them from contacting Amazon support. The bot does not store or send ANY of your emails or passwords. Spiria is not responsible for any loss you may experience in running the bot. </strong>
+
+#### Before the drop
+
+1. Select free or paid.
+2. Enter your Discord email. It will not be saved and does not get sent elsewhere.
+3. Enter your Discord password. It will not be saved and does not get sent elsewhere.
+4. Enter the Hyper base password link. Ex: https://dashboard.spiria.tools or https://blank.metalabs.gg
+5. Enter the email you want to use to purchase the Hyper product with.
+6. Enter the name you want to use to purchase the Hyper product with. Skip steps 7-9 if you are using free mode.
+7. Enter your card number. It will not be saved and does not get sent elsewhere. Ex: 1234123412341234
+8. Enter your card expiry date. It will not be saved and does not get sent elsewhere. Ex: 11/23
+9. Enter your card cvc. It will not be saved and does not get sent elsewhere. Ex: 123
+10. The bot will open the dashboard page and automatically login with Discord for you.
+11. **DO NOT CLOSE THE CHROME DASHBOARD TAB, INSTEAD MINIMIZE IT. Open the existing Spiria CLI page and the place where the checkout link is going to drop in a split screen arrangement as shown below.**
+
+<img src="images/download.png">
+
+#### During the drop
+
+1. 
 
 
 
