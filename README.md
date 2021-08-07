@@ -31,7 +31,7 @@
     <li>
       <a href="#installation">Installation</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#login">Login</a></li>
     <li>
       <a href="#modules">Modules</a>
       <ul>
