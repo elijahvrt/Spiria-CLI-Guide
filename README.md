@@ -101,7 +101,7 @@ The Amazon Coupon Code Applier is designed to repeatedly purchase free items on 
 6. **Please keep your mouse away from any hover menus. I would minimize the window or leave my computer to do something else because the process might take a while depending on the quantity of the products. Check the email associated with that Amazon account to ensure that it worked.**
 
 
-### Amazon Coupon Code Applier
+### MetaLabs/Hyper Module
 
 <strong>Important: Please manually purchase the item first once so that you can delete incompatible addresses. The bot will only checkout if the cost is $0.00, so if something goes wrong, your cards will not be charged, but you may lose existing Amazon credits. However, you may be able to recover them from contacting Amazon support. The bot does not store or send ANY of your emails or passwords. Spiria is not responsible for any loss you may experience in running the bot. </strong>
 
