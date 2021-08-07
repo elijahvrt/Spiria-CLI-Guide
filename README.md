@@ -36,6 +36,7 @@
       <a href="#modules">Modules</a>
       <ul>
         <li><a href="#amazon-coupon-code-applier">Amazon Coupon Code Applier</a></li>
+        <li><a href="metalabshyper-module">MetaLabs/Hyper Module</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
