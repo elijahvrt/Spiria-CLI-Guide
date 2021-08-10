@@ -124,7 +124,9 @@ The Amazon Coupon Code Applier is designed to repeatedly purchase free items on 
 
 #### During the drop
 
-1. 
+1. Either copy or parse the purchase link and paste it into Spiria CLI and press enter.
+2. It will open the link you inputted and automatically fill out the prompts and checkout the product.
+3. You can view your new license key in the CLI if the tab gets closed.
 
 
 
